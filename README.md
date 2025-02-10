@@ -45,3 +45,4 @@ to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 # Fundamentals-of-Data-Science
 I've really been learning and enjoying this course.
+I had taken a data science course before put priomarly focused on RStudios, so alot of the terminal is new to me.
